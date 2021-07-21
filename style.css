@@ -1,0 +1,160 @@
+input:focus, textarea:focus, select:focus{
+        outline: none;
+    }
+.contain{
+  padding: 5% 15%; 
+}
+.content{
+  height: auto;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10%;
+  text-align: center;
+  overflow: auto;
+}
+.logo{
+  size: 40px;
+}
+button{
+  margin: 14% 4% 0 0 ;
+}
+.backg{
+  background-image: url('backimg.jpg'); 
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 80%;
+  height: auto;
+  position:absolute;
+ top:0;
+ left:0;
+}
+
+.bg-tran{
+  background: transparent;
+}
+
+.card {
+    width: 400px;
+    background-color: #fff;
+    border: none;
+    border-radius: 12px
+}
+.form-control {
+    margin-top: 10px;
+    height: 48px;
+    border: 2px solid #eee;
+    border-radius: 10px
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #999
+}
+
+.agree-text {
+    font-size: 12px
+}
+
+.confirm-button {
+    height: 50px;
+    border-radius: 10px
+}
+
+.btn-my{
+  color: #fff;
+    background-color: #555;
+    border-color: #999;
+}
+
+.btn-my:focus {
+    box-shadow: none;
+    border: 2px solid #999
+}
+.btn-my:hover {
+    color: #eee;
+    background-color: #777;
+}
+@media only screen and (max-width: 800px) {
+    .content{
+        margin-top: 150px;
+    }
+    /* Force table to not be like tables anymore */
+    #no-more-tables table, 
+    #no-more-tables thead, 
+    #no-more-tables tbody, 
+    #no-more-tables th, 
+    #no-more-tables td, 
+    #no-more-tables tr { 
+        display: block; 
+    }
+ 
+    /* Hide table headers (but not display: none;, for accessibility) */
+    #no-more-tables thead tr { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+ 
+    #no-more-tables tr { border: 1px solid #ccc; }
+ 
+    #no-more-tables td { 
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee; 
+        position: relative;
+        padding-left: 50%; 
+        white-space: normal;
+        text-align:left;
+    }
+ 
+    #no-more-tables td:before { 
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%; 
+        padding-right: 10px; 
+        white-space: nowrap;
+        text-align:left;
+        font-weight: bold;
+    }
+ 
+    #no-more-tables td:before { content: attr(data-title); }
+}
+
+.vl {
+  border-left: 5px solid #ccc;
+  height: auto;
+}
+.left {
+width: 30%;
+ float:left
+
+}
+
+.right {
+width: 70%;
+ float:right
+}
+.lin{
+    display: block;
+    text-align: left;
+}
+hr{
+    border: 1px solid #bbb;
+}
+img{
+    border-radius: 500px;
+}
+.alig{
+    text-align: left;
+}
+.disp{
+    display: inline-flex;
+}
+.back{
+  background: #fff;  
+}
