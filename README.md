@@ -1,2 +1,2 @@
 # myfoundationbank
-The Banking web application
+A web application for banking officers with database availability
