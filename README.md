@@ -1,4 +1,7 @@
-# myfoundationbank
+#myfoundationbank
+
+
+A Banking Web Application in which is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
 A Banking Web Application in which we is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 The web site will be used by three different types of users: customers,
@@ -80,3 +83,4 @@ news ticker. In addition, this feature will allow the administrator to
 delete a particular ticker.
 Change password: This feature will allow administrators to change their
 passwords.
+
