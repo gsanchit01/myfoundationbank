@@ -4,6 +4,10 @@
 A Banking Web Application in which is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
 A Banking Web Application in which we is created with "PHP", "JavaScript", "Html5", "Bootstrap".
+
+follow the above step:-
+
+
 The web site will be used by three different types of users: customers,
 employees, and administrators.  The web site will provide a different
 interface for each of the three types of users.
@@ -83,4 +87,5 @@ news ticker. In addition, this feature will allow the administrator to
 delete a particular ticker.
 Change password: This feature will allow administrators to change their
 passwords.
+
 
