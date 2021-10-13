@@ -9,13 +9,13 @@ A Banking Web Application in which is created with "PHP", "JavaScript", "Html5",
 
 A Banking Web Application in which we is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
-follow the above step:-
+#follow the above step:-
 
 
 The web site will be used by three different types of users: customers,
 employees, and administrators.  The web site will provide a different
 interface for each of the three types of users.
-Customer interface
+
 Account summary: This feature will allow a customer to view the
 information related to all the accounts that he/she holds with the bank.
 The information displayed will include the account ID, account type,
@@ -27,6 +27,7 @@ of all transactions performed on any of their accounts held in the bank.
 To obtain this information, customers would be required to specify their
 account ID and the range of dates for which they want to view
 transactions.
+
 Transfer funds:  This feature will allow a customer to transfer money
 from any of their accounts to another account in Westside bank.
 Request for cheque book: This feature will allow a customer to make a
@@ -50,7 +51,8 @@ view all requests for cheque book made by customers. It will also enable
 an employee to specify whether a cheque book has been dispatched or not.
 Change password: This feature will allow employees to change their
 passwords.
-Administrator interface
+
+#Administrator interface
 Create users: This feature will allow an administrator to create new
 accounts for users and assign role to them.  For example, after creating
 a login account for a customer, the administrator would be required to
