@@ -80,17 +80,6 @@ specific type of account. It will also enable the administrator to add
 new type of accounts.
 
 4
-Modify loan information: This feature will allow the administrator to
-modify information such as down payment and interest rate, for a
-specific type of loan. It will also allow an administrator to add new
-type of loan.
-Update ticker: This feature will allow the administrator to create a new
-news item that will be displayed in the news ticker on the home page.
-The administrators will also be able to edit the news item and change
-the status for a particular news item.  The status of a news item can be
-either activated or deactivated. Only activated items will appear in the
-news ticker. In addition, this feature will allow the administrator to
-delete a particular ticker.
 Change password: This feature will allow administrators to change their
 passwords.
 
