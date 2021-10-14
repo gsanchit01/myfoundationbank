@@ -3,6 +3,7 @@
 <head><meta http-equiv = "refresh" content = "0; url = table.php" ></head>
 <body>
 <?php
+    
 include('open.php');
     $sender = $_POST['sender'];
     $reciver = $_POST['reciver'];   
@@ -14,6 +15,7 @@ include('open.php');
     $result = $con->query($qur);
     $rowsen = $result->fetch_assoc();
 
+    
     $qur="SELECT * FROM `customers` WHERE userid='$recive[0]'";
     $result = $con->query($qur);
     $rowrec = $result->fetch_assoc();
@@ -21,6 +23,7 @@ include('open.php');
     if($fiamse<0){
         echo '<script>alert("Sorry, Sender does not have sufficient balance")</script>';
     }
+    
     else{
         $fiamre= $rowrec["currbal"]+$amount;
         $sqlse="UPDATE `customers` SET `currbal`='$fiamse' WHERE `userid`='$send[0]'";
