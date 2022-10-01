@@ -13,6 +13,8 @@ The website will be used by three different types of users: customers,
 employees and administrators. The web site will provide a different
 interface for each of the three types of users.
 
+#Customer interface
+
 Account summary: This feature will allow a customer to view the
 information related to all the accounts that he/she holds with the bank.
 The information displayed will include the account ID, account type,
@@ -41,7 +43,7 @@ all the previous loan requests made by them.
 Change password: This feature will allow customers to change their
 passwords.
 
-Employee interface
+#Employee interface
 
 Process loan requests: This feature will enable the employees to view
 loan requests submitted by customers. It will also enable an employee
