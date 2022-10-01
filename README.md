@@ -1,13 +1,10 @@
 
-# myfoundationbank.
-
 #myfoundationbank
 
 
-A Banking Web Application in which is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
+A Banking Web Application which is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
-A Banking Web Application in which we is created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
 #follow the above step:-
 
