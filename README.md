@@ -1,19 +1,19 @@
 
-#myfoundationbank
+# myfoundationbank
 
 
 
 A Banking Web Application which has been created with "PHP", "JavaScript", "Html5", "Bootstrap".
 
 
-#Follow the given below steps:-
+# Follow the given below steps:-
 
 
 The website will be used by three different types of users: customers,
 employees and administrators. The web site will provide a different
 interface for each of the three types of users.
 
-#Customer interface
+# Customer interface
 
 Account summary: This feature will allow a customer to view the
 information related to all the accounts that he/she holds with the bank.
@@ -43,7 +43,7 @@ all the previous loan requests made by them.
 Change password: This feature will allow customers to change their
 passwords.
 
-#Employee interface
+# Employee interface
 
 Process loan requests: This feature will enable the employees to view
 loan requests submitted by customers. It will also enable an employee
@@ -57,7 +57,7 @@ an employee to specify whether a cheque book has been dispatched or not.
 Change password: This feature will allow employees to change their
 passwords.
 
-#Administrator interface
+# Administrator interface
 
 Create users: This feature will allow an administrator to create new
 accounts for users and assign roles to them. For example, after creating
