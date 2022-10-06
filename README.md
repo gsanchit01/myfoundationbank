@@ -1,9 +1,9 @@
 
-# myfoundationbank
+# MyFoundationBank
 
 
 
-A Banking Web Application which has been created with "PHP", "JavaScript", "Html5", "Bootstrap".
+A Banking Web Application which has been created with "PHP", "JavaScript", "Html5", "Bootstrap", "CSS".
 
 
 # Follow the given below steps:-
@@ -53,8 +53,7 @@ Process cheque book requests: This feature will enable the employees to
 view all requests for cheque book made by customers. It will also enable
 an employee to specify whether a cheque book has been dispatched or not.
 
-Change password: This feature will allow employees to change their
-passwords.
+Change password: By his feature the password of employee can be change by them.
 
 # Administrator interface
 
