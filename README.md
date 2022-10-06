@@ -8,8 +8,7 @@ A Banking Web Application which has been created with "PHP", "JavaScript", "Html
 
 # Follow the given below steps:-
 
-
-The website will be used by three different types of users: customers,
+The website will be utilized by three variants of users: customers,
 employees and administrators. The web site will provide a different
 interface for each of the three types of users.
 
