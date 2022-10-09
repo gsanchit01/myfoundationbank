@@ -2,11 +2,11 @@ input:focus, textarea:focus, select:focus{
         outline: none;
     }
 .contain{
-  padding: 5% 15%; 
+  padding: 7% 21%; 
 }
 .content{
   height: auto;
-  background-color: #FFFFFF;
+  background-color: #b8afaf;
   border-radius: 20px;
   padding: 10%;
   text-align: center;
@@ -37,7 +37,7 @@ button{
 
 .card {
     width: 400px;
-    background-color: white;
+    background-color: #b8afaf;
     border: none;
     border-radius: 12px
 }
@@ -50,7 +50,7 @@ button{
 
 .form-control:focus {
     box-shadow: none;
-    border: 2px solid #999
+    border: 2px solid rgb(92, 89, 89)
 }
 
 .agree-text {
