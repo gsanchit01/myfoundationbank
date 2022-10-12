@@ -13,7 +13,7 @@ input:focus, textarea:focus, select:focus{
   overflow: auto;
 }
 .logo{
-  size: 40px;
+  size: 42px;
 }
 button{
   margin: 14% 4% 0 0 ;
@@ -24,7 +24,7 @@ button{
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  opacity: 80%;
+  opacity: 85%;
   height: auto;
   position:absolute;
  top:0;
@@ -54,7 +54,7 @@ button{
 }
 
 .agree-text {
-    font-size: 12px
+    font-size: 14px
 }
 
 .confirm-button {
@@ -131,13 +131,13 @@ button{
 }
 .left {
 width: 30%;
- float:left
+ float:right
 
 }
 
 .right {
 width: 70%;
- float:right
+ float:left
 }
 .lin{
     display: block;
