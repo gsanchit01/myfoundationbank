@@ -2,7 +2,7 @@ input:focus, textarea:focus, select:focus{
         outline: none;
     }
 .contain{
-  padding: 5% 15%; 
+  padding: 5% 25%; 
 }
 .content{
   height: auto;
