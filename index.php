@@ -1,12 +1,14 @@
 <!doctype html>
 <html lang="en">
     <head>
+        
         <title>Foundation Bank</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="style.css">
+        
     </head>
     <body>
         <nav class="navbar navbar-dark navbar-expand-sm bg-dark fixed-top">
@@ -21,24 +23,16 @@
                 <div id="navbarCollapse" class="collapse navbar-collapse">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a href="./" class="nav-link active">
-                                Home
-                            </a>
+                            <a href="./" class="nav-link active">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="./newreg.php" class="nav-link active">
-                                New Customers
-                            </a>
+                            <a href="./newreg.php" class="nav-link active">New Customers</a>
                         </li>
                         <li class="nav-item">
-                            <a href="./table.php" class="nav-link active">
-                                All Customers
-                            </a>
+                            <a href="./table.php" class="nav-link active">All Customers</a>
                         </li>
                         <li class="nav-item">
-                            <a href="./transfer.php" class="nav-link active">
-                                Transfer
-                            </a>
+                            <a href="./transfer.php" class="nav-link active">Transfer</a>
                         </li>
                     </ul>
                 </div>
