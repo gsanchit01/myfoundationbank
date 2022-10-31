@@ -89,3 +89,5 @@ new type of accounts.
 
 Change password: This feature will allow administrators to change their
 passwords.
+
+Follow above steps to get proper UI .
